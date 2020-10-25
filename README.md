@@ -28,11 +28,26 @@ TensorFlow1.15.2 used gpu—Tesla 40second per epoch
 amazing!!!
 
 Epoch: 2 Test Metrics:
+
  rmse: 0.399 	 auc: 0.809 	 r2: 0.294
+ 
 Epoch: 5 Test Metrics:
+
  rmse: 0.397 	 auc: 0.816 	 r2: 0.299
+ 
 Epoch: 8 Test Metrics:
+
  rmse: 0.394 	 auc: 0.818 	 r2: 0.308
 
 Epoch: 10 Train Metrics:
+
  rmse: 0.387 	 auc: 0.835 	 r2: 0.337 
+ 
+ note: DKT-2016 tf 0.12.1
+       DKT tf 1.15.2
+       
+a :Has subproblems
+
+b :Repeat sequnces for mutiple skills
+
+c :Combined skills for mutiple skills
